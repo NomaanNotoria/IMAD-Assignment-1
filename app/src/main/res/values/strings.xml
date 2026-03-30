@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Social Spark</string>
+    <string name="default_suggestion_text">✨ Your social spark will appear here ✨\n\nEnter a time of day to get started!</string>
+</resources>
