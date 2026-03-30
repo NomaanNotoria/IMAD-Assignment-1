@@ -192,7 +192,7 @@ This project was created for educational purposes as part of the IMAD5112 assign
 🔗 Links
 GitHub Repository: https://github.com/NomaanNotoria/IMAD-Assignment-1
 
-Video Demo: [Replace with your YouTube link]
+Video Demo: 
 
 GitHub Actions: View workflow runs
 
@@ -217,6 +217,6 @@ For questions or support regarding this project:
 
 GitHub Issues: Create an issue
 
-Instructor: [Your instructor's name]
+Instructor: [Karangara Kincade]
 
 Course: IMAD5112 - Introduction to Mobile Application Development
