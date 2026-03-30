@@ -192,7 +192,7 @@ This project was created for educational purposes as part of the IMAD5112 assign
 🔗 Links
 GitHub Repository: https://github.com/NomaanNotoria/IMAD-Assignment-1
 
-Video Demo: 
+Video Demo: https://youtu.be/YCENrioXwhU
 
 GitHub Actions: View workflow runs
 
